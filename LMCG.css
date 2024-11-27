@@ -1473,6 +1473,9 @@ h7{
      }
     }
 @media (max-width:730px) {
+    .firstpage{
+        height:90vh;
+    }   
     .modelabel{
         left:88%;
         top:30px;
